@@ -1,0 +1,26 @@
+@media (max-width:991px) {
+    
+    .aside-right ,.section1-card div,.section2, .section2 nav h2, .section2 nav ul, .section2 .card, .section2 .card2 img , .card3 img , .card4 img, .aside1,.aside1 .card-aside img, .aside1 .card p,.section3 .card,.aside-lefte,.aside-lefte img,.aside-right {
+        width: 100%;
+    }
+    .d-flex{
+        flex-wrap: wrap;
+    }
+
+}
+
+
+
+
+
+
+@media screen and (max-width: 360px){
+    .aside-right ,.section1-card div,.section2, .section2 nav h2, .section2 nav ul, .section2 .card, .section2 .card2 img , .card3 img , .card4 img, .aside1,.aside1 .card-aside img, .aside1 .card p,.section3 .card,.aside-lefte,.aside-lefte img,.aside-right {
+        width: 100%;
+    }
+    .d-flex{
+        flex-wrap: wrap;
+    }
+
+
+}
